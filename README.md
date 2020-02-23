@@ -8,8 +8,12 @@ Usage of ./go-netstat:
     	display both listening and non-listening sockets
   -help
     	display this help screen
+  -json
+    	display JSON output
   -lis
     	display only listening sockets
+  -pretty
+    	display JSON pretty print output
   -res
         lookup symbolic names for host addresses
   -tcp
